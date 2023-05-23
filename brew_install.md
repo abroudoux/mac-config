@@ -1,0 +1,1 @@
+`brew install trello discord bitwarden spotify webcatalog rectangle alfred arc docker postman devtoys pictogram notion boop shazam`
