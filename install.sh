@@ -1,1 +1,7 @@
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+#!/bin/bash
+
+
+# bash scripts/Homebrew.sh
+# bash scripts/NVM.sh
+
+bash scripts/Tests.sh
